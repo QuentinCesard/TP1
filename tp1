@@ -1,2 +1,8 @@
 Exercice 1:
+2.
 4. La commande git status nous donne l'état du répetoir, et le status des documents à l'interieur.
+5. Notre fichier apparait maintenant en vert et il y a écrit à ca gauche nouveau fichier.
+7.Lorsque je demande le statut on me retourne (Sur la branche master rien à valider, la copie de travail est propre), on ne vois plus le fichier présent avant le commit. 	 
+8.Cette commande permet d'avoir le'historique de tout les commit effectué. 
+9.Cette commande permet de donné l'ancienne version d'un documment et sa nouvelle version, et mets en évidence les différences. 
+11. je vois le fichier qui à été commite tout à l'heure.
